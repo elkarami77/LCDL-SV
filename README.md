@@ -8,7 +8,9 @@ The link is,
 https://ieeexplore.ieee.org/abstract/document/8920031<br>
 <br>
 Flowchart of our proposed LCDL-SV is,<br>
+<br>
 ![image](https://github.com/yinhefeng/LCDL-SV/blob/master/img/LCDL_SV.jpg)
+<br>
 <br>
 Just run demo_EYaleB.m and you will obtain the following result,<br>
 <br>
