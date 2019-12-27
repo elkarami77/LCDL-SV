@@ -8,6 +8,7 @@ The link is,
 https://ieeexplore.ieee.org/abstract/document/8920031<br>
 <br>
 Just run demo_EYaleB.m and you will obtain the following result,<br>
+<br>
 Accuracy of LCDL-SV (Res) is 91.51%<br>
 Accuracy of LCDL-SV (SVM) is 97.15%<br>
 Accuracy of LCDL-SV is 97.82%<br>
