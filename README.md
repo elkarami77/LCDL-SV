@@ -1,2 +1,6 @@
 # Locality-Constraint-Dictionary-Learning-with-Support-Vector
-Locality Constraint Dictionary Learning with Support Vector Discriminative Term for Pattern Classification
+These codes are for the following paper published in IEEE Access,<br>
+He-Feng Yin, Xiao-Jun Wu, Su-Gen Chen. Locality Constraint Dictionary Learning With Support Vector for Pattern Classification. IEEE Access, 2019, 7: 175071-175082.<br>
+The link is,
+https://ieeexplore.ieee.org/abstract/document/8920031
+
