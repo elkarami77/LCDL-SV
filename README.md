@@ -5,7 +5,7 @@ He-Feng Yin, Xiao-Jun Wu, Su-Gen Chen. Locality Constraint Dictionary Learning W
 <br>
 The link is,
 <br>
-https://ieeexplore.ieee.org/abstract/document/8920031
+https://ieeexplore.ieee.org/abstract/document/8920031<br>
 <br>
 Just run demo_EYaleB.m and you will obtain the following result,<br>
 Accuracy of LCDL-SV (Res) is 91.51%<br>
